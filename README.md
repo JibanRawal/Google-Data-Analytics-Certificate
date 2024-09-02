@@ -8,4 +8,4 @@
 
 **Data Ecosystems** Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements include hardware and software tools, and the people who use them. A technical mindset involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way. Data strategy is the management of the people, processes, and tools used in data analysis.
 
-**Thinking Analytically** Analytical thinking involves identifying and defining a problem and then solving it by using data in an organized, step-by-step manner. Gap analysis lets you examine and evaluate how a process works currently in order to get where you want to be in the future.
+**Thinking Analytically** Analytical thinking involves identifying and defining a problem and then solving it by using data in an organized, step-by-step manner. Gap analysis lets you examine and evaluate how a process works currently in order to get where you want to be in the future. Use 5 WHY?
