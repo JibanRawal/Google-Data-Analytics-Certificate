@@ -6,4 +6,4 @@
 
 **Data Analyst** is the person responsible for the data analysis to support the data driven decision management. A data analyst is an explorer, a detective, and an artist all rolled into one. Analytics is the quest for inspiration.
 
-**Data Ecosystems** Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements include hardware and software tools, and the people who use them. A technical mindset involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+**Data Ecosystems** Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements include hardware and software tools, and the people who use them. A technical mindset involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way. Data strategy is the management of the people, processes, and tools used in data analysis.
