@@ -10,6 +10,8 @@
 
 **Thinking Analytically** Analytical thinking involves identifying and defining a problem and then solving it by using data in an organized, step-by-step manner. Gap analysis lets you examine and evaluate how a process works currently in order to get where you want to be in the future. Use 5 WHY?
 
-# SQL 
+# SQL (Structured Query Language)
+
+Pronounced as "sequel".
 
 **Query** A query is a request for data or information from a database.
