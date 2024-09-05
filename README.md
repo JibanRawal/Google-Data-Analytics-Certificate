@@ -15,3 +15,4 @@
 Pronounced as "sequel".
 
 **Query** A query is a request for data or information from a database.
+**Syntax** Every programming language, including SQL, follows a unique set of guidelines known as syntax. 
