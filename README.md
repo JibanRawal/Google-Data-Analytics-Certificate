@@ -16,3 +16,12 @@ Pronounced as "sequel".
 
 **Query** A query is a request for data or information from a database.
 **Syntax** Every programming language, including SQL, follows a unique set of guidelines known as syntax. 
+The syntax of every SQL query is the same: 
+
+1. Use SELECT to choose the columns you want to return.
+
+2. Use FROM to choose the tables where the columns you want are located.
+
+3.Use WHERE to filter for certain information.
+
+
