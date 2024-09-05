@@ -24,4 +24,14 @@ The syntax of every SQL query is the same:
 
 - Use __WHERE__ to filter for certain information.
 
+For example, if you are looking for a specific customer with the last name Chavez, the WHERE clause would be: 
+
+WHERE field1 = 'Chavez'
+
+However, if you are looking for all customers with a last name that begins with the letters “Ch," the WHERE clause would be:
+
+WHERE field1 LIKE 'Ch%'
+
+You can conclude that the LIKE clause is very powerful because it allows you to tell the database to look for a certain pattern! The percent sign % is used as a wildcard to match one or more characters. In the example above, both Chavez and Chen would be returned. Note that in some databases an asterisk * is used as the wildcard instead of a percent sign %.
+
 
