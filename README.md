@@ -36,11 +36,11 @@ You can conclude that the LIKE clause is very powerful because it allows you to 
 
 **Comments** In these cases, you can place comments alongside your SQL to help you remember what the name represents. Comments are text placed between certain characters, /* and */, or after two dashes --), like:
 
-'SELECT
+'''SELECT
 	field1 /* this is the last name column */
 FROM
 	table -- this is the customer data table  
 WHERE
-	field1 LIKE 'Ch%';'
+	field1 LIKE 'Ch%';
 
 
