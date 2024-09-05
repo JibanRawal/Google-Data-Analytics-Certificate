@@ -18,10 +18,10 @@ Pronounced as "sequel".
 **Syntax** Every programming language, including SQL, follows a unique set of guidelines known as syntax. 
 The syntax of every SQL query is the same: 
 
-- Use SELECT to choose the columns you want to return.
+- Use _SELECT_ to choose the columns you want to return.
 
-- Use FROM to choose the tables where the columns you want are located.
+- Use _FROM_ to choose the tables where the columns you want are located.
 
-- Use WHERE to filter for certain information.
+- Use _WHERE_ to filter for certain information.
 
 
