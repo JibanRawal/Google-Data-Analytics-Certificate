@@ -41,11 +41,11 @@ You can conclude that the LIKE clause is very powerful because it allows you to 
 
 __Visualization software (Tableau)__
 
+__Tableau__ is a popular data visualization tool that lets you pull data from nearly any system and turn it into compelling visuals or actionable insights.
+
 __Programming language (R with RStudio)__
 
 A lot of data analysts work with a programming language called R. Most people who work with R end up also using RStudio, an integrated developer environment (IDE), for their data visualization needs. 
-
-__Tableau__ is a popular data visualization tool that lets you pull data from nearly any system and turn it into compelling visuals or actionable insights.
 
 
 
