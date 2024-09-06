@@ -39,7 +39,12 @@ You can conclude that the LIKE clause is very powerful because it allows you to 
 
 **Note**: SQL queries use SELECT, FROM, and WHERE to specify the data to be returned from the query. Capitalization, indentation, and semicolons are useful for making your SQL queries easier to read. In addition, comments can be added to explain queries to others. As you progress through this course, you will continue discovering many ways in which SQL can be a very powerful tool for retrieving, analyzing, and interpreting data.
 
-# Visualization software (Tableau)
+__Visualization software (Tableau)__
+
+__Programming language (R with RStudio)__
+
+A lot of data analysts work with a programming language called R. Most people who work with R end up also using RStudio, an integrated developer environment (IDE), for their data visualization needs. 
+
 __Tableau__ is a popular data visualization tool that lets you pull data from nearly any system and turn it into compelling visuals or actionable insights.
 
 
