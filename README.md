@@ -50,6 +50,10 @@ A lot of data analysts work with a programming language called R. Most people wh
 
 __Oversampling__: The process of increasing the sample size of nondominant groups in a population. This can help you better represent them and address imbalanced datasets  
 
+# ASK QUESTIONS AND MAKE DECISIONS
+
+__Structured thinking__ is the process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options
+
 
 
 
