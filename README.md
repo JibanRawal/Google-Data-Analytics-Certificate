@@ -52,7 +52,7 @@ __Oversampling__: The process of increasing the sample size of nondominant group
 
 # ASK QUESTIONS AND MAKE DECISIONS
 
-__Structured thinking__ is the process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options
+__Structured thinking__ is the process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options.
 
 
 
