@@ -54,6 +54,21 @@ __Oversampling__: The process of increasing the sample size of nondominant group
 
 __Structured thinking__ is the process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options.
 
+# The three (or four) V words for big data
+When thinking about the benefits and challenges of big data, it helps to think about the three Vs: volume, variety, and velocity. Volume describes the amount of data. Variety describes the different kinds of data. Velocity describes how fast the data can be processed. Some data analysts also consider a fourth V: veracity. Veracity refers to the quality and reliability of the data. These are all important considerations related to processing huge, complex datasets. 
+
+__Volume__: The amount of data
+
+__Variety__: The different kinds of data 
+
+__Velocity__: How fast the data can be processed
+
+__Veracity__: The quality and reliability of the data
+
+
+
+
+
 
 
 
