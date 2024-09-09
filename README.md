@@ -65,6 +65,8 @@ __Velocity__: How fast the data can be processed
 
 __Veracity__: The quality and reliability of the data
 
+__Albert Einstein__ once said," If I were given one hour to save the planet, I would spend 59 minutes defining the problem and one minute resolving it."
+
 
 
 
