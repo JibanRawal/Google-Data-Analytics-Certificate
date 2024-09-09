@@ -67,6 +67,10 @@ __Veracity__: The quality and reliability of the data
 
 __Albert Einstein__ once said," If I were given one hour to save the planet, I would spend 59 minutes defining the problem and one minute resolving it."
 
+A __statement of work__ is a document that clearly identifies the products and services a vendor or contractor will provide to an organization. It includes objectives, guidelines, deliverables, schedule, and costs. 
+
+A __scope of work__ is project-based and sets the expectations and boundaries of a project. A scope of work may be included in a statement of work to help define project outcomes. 
+
 
 
 
